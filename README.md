@@ -1,2 +1,2 @@
-# Image-Hosting-Web-Site
-PicGo图床工具
+# Images
+图片集
